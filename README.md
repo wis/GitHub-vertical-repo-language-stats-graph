@@ -1,2 +1,3 @@
-# GitHub-vertical-repo-language-stats-graph
-userstyle for vertical repo language stats graph with percentages on GitHub
+# :octocat: GitHub vertical repo-language-stats graph
+userstyle for a vertical repo-language-stats (bar) graph with percentages on GitHub. :octocat:
+always shown with percentages on the side sparing the need for clicking to show stats.
