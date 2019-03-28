@@ -42,7 +42,7 @@
         border-bottom-right-radius: unset;
         overflow: visible;
         border-top: 1px solid #ddd;
-        margin-left: -5px;
+        margin-left: -13px;
         width: 110%;
     }
     .repository-lang-stats-graph .language-color:last-child {
